@@ -15,6 +15,20 @@
 11. Bootstrap Icons (https://icons.getbootstrap.com/)
 12. HeroIcons (https://heroicons.com/)
 13. Tabler Icons (https://tablericons.com/)
+14. CSS.GG | pure css symbols (https://css.gg/icon/collage/css)
+15. TennyIcons (https://teenyicons.com/)
+16. IconBuddy (https://iconbuddy.com/)
+17. IconOir (https://iconoir.com/)
+18. IconDuck (https://iconduck.com/)
+19. Simple Icons | popular brands (https://simpleicons.org/)
+
+## Vectors and Clipart
+
+1. IllustAc (https://en.ac-illust.com/)
+2. FreeSvg (https://freesvg.org/)
+3. PublicDomainVectors (https://publicdomainvectors.org/)
+4. 1000Logos (https://1000logos.net/)
+5. SvgSilh (https://svgsilh.com/)
 
 ## Illustrations
 
@@ -34,4 +48,14 @@
 
 ## Images
 
-1. SvgSilh (https://svgsilh.com/)
+1. LifeOfPix (https://www.lifeofpix.com/)
+2. Unsplash (https://unsplash.com/)
+3. Pixabay (https://pixabay.com/)
+4. FreeStocks (https://freestocks.org/)
+5. Pixnio (https://pixnio.com/)
+6. Pexels (https://www.pexels.com/)
+7. GratisoGraphy (https://gratisography.com/)
+8. FoodiesFeed (https://www.foodiesfeed.com/)
+9. Burst (https://www.shopify.com/stock-photos)
+10. StockSnap (https://stocksnap.io/)
+11. PikWizard (https://pikwizard.com/)
