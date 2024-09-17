@@ -17,4 +17,6 @@ The Totally Free Tools project aims to become a leading reference for free and o
 ## Categories
 
 **[1] Design Tools** 
-- [Images and Icons](https://github.com/nureddinhaji/Totally-Free-Tools/blob/main/Images%20and%20Icons.md)
+- [Images and Icons](https://github.com/nureddinhaji/Totally-Free-Tools/blob/main/Design%20Tools/Images%20and%20Icons.md)
+**[2] Developer Tools**
+- [VSCode Extensions](https://github.com/nureddinhaji/Totally-Free-Tools/blob/main/Developer%20Tools/VSCode%20Extensions.md)
