@@ -21,6 +21,7 @@
 17. IconOir (https://iconoir.com/)
 18. IconDuck (https://iconduck.com/)
 19. Simple Icons | popular brands (https://simpleicons.org/)
+20. Google Material Symbols & Icons (https://fonts.google.com/icons)
 
 ## Vectors and Clipart
 
