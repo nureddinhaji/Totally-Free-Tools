@@ -187,15 +187,16 @@ The Totally Free Tools project aims to become a leading reference for free and o
 ### Learning Programming
 
 
-1. Developer Roadmaps (https://roadmap.sh/)
-2. freeCodeCamp (https://www.freecodecamp.org/)
-3. Harmash (**ar**) (https://harmash.com/)
-4. Satr (**ar**) (https://satr.codes/)
-5. OverAPI.com - Collecting All Cheat Sheets (https://overapi.com/)
-6. egghead.io (https://egghead.io/)
-7. codecademy (https://www.codecademy.com/)
+1. Developer Roadmaps ([link](https://roadmap.sh/))
+2. freeCodeCamp ([link](https://www.freecodecamp.org/))
+3. Harmash (**ar**) ([link](https://harmash.com/))
+4. Satr (**ar**) ([link](https://satr.codes/))
+5. OverAPI.com - Collecting All Cheat Sheets ([link](https://overapi.com/))
+6. egghead.io ([link](https://egghead.io/))
+7. codecademy ([link](https://www.codecademy.com/))
+8. GeeksForGeeks ([link](https://www.geeksforgeeks.org/))
 
-## Learn Front-End Development
+#### Learn Front-End Development
 
 1.  Phuoc Nguyen Blog (https://phuoc.ng/)
 
@@ -212,9 +213,12 @@ The Totally Free Tools project aims to become a leading reference for free and o
 2. DevProjects (https://www.codementor.io/projects)
 3. Frontend Mentor (https://www.frontendmentor.io/)
 
-#### Probleme Solving
+#### Probleme Solving and Challenges
 
-1. CoderHub (**ar**) (https://coderhub.sa/)
+1. CoderHub (**ar**) ([link](https://coderhub.sa/))
+2. Exercism ([link](https://exercism.org/))
+3. CodeForces ([link](https://codeforces.com/))
+4. CodingGame ([link](https://www.codingame.com/start/))
 
 ### Github Repositories
 
@@ -234,7 +238,8 @@ The Totally Free Tools project aims to become a leading reference for free and o
 
 1. **CodeFrame**: You can build webpages in Codeframe with HTML, CSS, and JavaScript in seconds, share your work with just a link, and remix Codeframes from other people with your ideas. ([link](https://codeframe.co/))
 
-
+### API
+1. RapidApi ([link](https://rapidapi.com/hub))
 ## Chrome Extensions
 
 ### Productivity Extensions
@@ -292,6 +297,11 @@ The Totally Free Tools project aims to become a leading reference for free and o
 
 ## YouTube Channels
 
+### Learn Programming
+
+1. Elzero Web School ([link](https://www.youtube.com/@ElzeroWebSchool))
+2. CodeWithHarry ([link](https://www.youtube.com/@CodeWithHarry))
+3. freeCodeCamp.org ([link](https://www.youtube.com/@freecodecamp))
 ### Islamic Channels
 
-1. Zad Tv Channel (https://www.youtube.com/@ZadTVchannel)
+1. Zad Tv Channel ([link](https://www.youtube.com/@ZadTVchannel))
