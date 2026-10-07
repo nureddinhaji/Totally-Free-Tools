@@ -238,6 +238,8 @@ The Totally Free Tools project aims to become a leading reference for free and o
 
 1. **CodeFrame**: You can build webpages in Codeframe with HTML, CSS, and JavaScript in seconds, share your work with just a link, and remix Codeframes from other people with your ideas. ([link](https://codeframe.co/))
 
+2. **NakupSladilcev.si Follower Growth Calculator (Slovenian)**: Free browser calculator for required daily and weekly net follower increases using a current count, target and number of days. ([link](https://nakupsladilcev.si/tools/follower-growth))
+
 ### API
 1. RapidApi ([link](https://rapidapi.com/hub))
 ## Chrome Extensions
